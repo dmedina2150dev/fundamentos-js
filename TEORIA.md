@@ -49,7 +49,9 @@ Es un código que provee el funcionamiento de una nueva característica de javas
 
 ## Console 
 [MDN - console](https://developer.mozilla.org/en-US/docs/Web/API/console)
+
 [MDN - API Console](https://developer.mozilla.org/en-US/docs/Web/API/Console_API)
+
 [Consola de desarrollador](https://es.javascript.info/devtools)
 
 El __console.log__ es un metodo que recibe varios argumentos. Son los valores que colocamos dentro de los parentecis.
